@@ -25,7 +25,7 @@ Para instalar el paquete python-dateutil dentro del entorno virtual activado se 
 ```bash
 pip install python-dateutil
 ```
-Esto mostrará un mensaje de
+Esto mostrará un mensaje de.
 ![Instalar_paquete](https://github.com/CristopherA96/LaunchX_IntroPython_w1/blob/79f7acf0812abd67faf2bf58e272042175f272ff/Module_2/Module_2_images/launchx_module_2_s3.png)
 
 ##### **Step 4**: Verificar que python-dateutil está instalado en el env.
