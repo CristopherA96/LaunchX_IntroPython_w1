@@ -8,3 +8,7 @@ Each folder is a module:
 * Module 4: Chains.
 * Module 5: Using mathematical operators.
 * Module 6: Introduction to lists.
+* Module 7: Control structures.
+* Module 8: Manage data with dictionaries.
+* Module 9: Functions.
+* Module 10: Error handling.
